@@ -102,7 +102,7 @@ export const info = {
         },
         {
             title: "Project 3",
-            live: "travellerino.netlify.app",
+            live: "https://travellerino.netlify.app",
             source: "https://github.com/tanvohoang/travel-agency.git",
             image: mocker
         },
