@@ -91,13 +91,13 @@ export const info = {
         {
             title: "Project 1",
             live: "https://pcx.netlify.app/", 
-            source: "https://github.com/paytonjewell", 
+            source: "https://github.com/tanvohoang/pcx.git", 
             image: mocker
         },
         {
             title: "Project 2",
             live: "https://haidrache.netlify.app/",
-            source: "https://github.com/tanvohoang/virtual-portfolio.git",
+            source: "https://github.com/tanvohoang/main-portfolio.git",
             image: mocker
         },
         {
