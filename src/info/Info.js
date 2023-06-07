@@ -97,7 +97,7 @@ export const info = {
         {
             title: "Project 2",
             live: "https://haidrache.netlify.app/",
-            source: "https://github.com/tanvohoang/main-portfolio.git",
+            source: "https://github.com/tanvohoang/centralized-portfolio.git",
             image: mocker
         },
         {
